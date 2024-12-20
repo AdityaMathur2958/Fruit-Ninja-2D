@@ -1,6 +1,6 @@
 # Fruit-Ninja-2D
 
-(Please save the assets folder inside the Fruit Ninja Folder after extracting the .zip file)
+(Please save the assets folder inside the Fruit Ninja Folder after extracting the .7z file)
 
 Fruit Ninja Game (2D) - Created by Aditya Mathur (Admission No. 24JE0077)
 
