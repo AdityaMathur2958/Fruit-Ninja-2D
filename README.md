@@ -1,5 +1,7 @@
 # Fruit-Ninja-2D
 
+(Please save the assets folder inside the Fruit Ninja Folder after extracting the .zip file)
+
 Fruit Ninja Game (2D) - Created by Aditya Mathur (Admission No. 24JE0077)
 
 Welcome to Fruit Ninja! This is a fun and interactive game where you slice fruits while avoiding bombs. Follow the instructions below to get started and enjoy the game.
